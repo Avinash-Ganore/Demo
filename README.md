@@ -1,3 +1,3 @@
 # Demo
-Author - Avinash Ganore <br>
+Author - Avinash College <br>
 This is my first Git Repository
