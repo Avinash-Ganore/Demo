@@ -1,2 +1,3 @@
 # Demo
-Author - Avinash Ganore
+Author - Avinash Ganore <br>
+This is my first Git Repository
